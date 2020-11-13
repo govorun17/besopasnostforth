@@ -18,7 +18,7 @@ public class Window extends JFrame {
     private final JLabel strLabel, publicKeyLabel, privateKeyLabel, resLabel;
 
     public Window() {
-        super("Lab 3");
+        super("Lab 4");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         setLocation(100, 100);

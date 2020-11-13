@@ -30,7 +30,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        lab.Main
+                                        Main
                                     </mainClass>
                                 </manifest>
                             </archive>
